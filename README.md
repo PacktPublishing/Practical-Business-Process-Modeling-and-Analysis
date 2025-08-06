@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * See how the BPMN can be extended for scenarios like process simulation and risk management
 * Measure and maximize business value from process transformation efforts
 
-If you feel this book is for you, get your [copy]([https://a.co/d/cZubN0L](https://a.co/d/d7A198h)) today!
+If you feel this book is for you, get your [copy]([https://a.co/d/cZubN0L](https://a.co/d/d7A198h) today!
 
 **Following is what you need for this book:**
 This book is ideal for business analysts, process improvement practitioners, project managers, consultants, operations managers, and IT leaders involved in process design, streamlining workflows, and integrating AI and automation. No prior experience with BPMN or automation is needed, though familiarity with business processes will be helpful.
