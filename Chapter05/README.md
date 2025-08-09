@@ -29,7 +29,7 @@ If you want to deepen your knowledge of BPM, the following are suggestions of bo
 * As another recommendation for a great book about BPM, I would like to suggest **[Fundamentals of Business Process Management](https://www.amazon.com/Fundamentals-Business-Process-Management-Marlon-ebook/dp/B07BP2X2M7)** by Marlon Dumas, Marcello La Rosa, Jan Mendling, and Hajo A. Reijers. This book covers not just the fundamentals of BPM but nearly every topic important for process management professionals. It also offers lots of examples and case studies, plus it has a fabulous list of other BPM books if you would like to deepen your knowledge even more.
 
 ## Further recommendations
-
+### IGOE
 Process Insights: Context Diagram (by Roger Tregear). Short and sweet video in which Roger Tregear shows IGOE in practice using example of Make Coffee process.
 https://www.youtube.com/watch?v=WYJwQ_iMzF0
 
@@ -42,7 +42,12 @@ https://www.brcommunity.com/articles.php?id=b634
 IGOE definition in the BPTrends Glossary.
 https://bptrends.info/glossary/scope-diagram-or-input-guides-outputs-enablers-igoe-diagram/
 
-APQC's Seven Tenets of Process Management. BPM is much more than modeling! This is an interesting overview of the capabilities related to BPM.
+
+### BPM is much more than modeling!
+ABPMP's Knowledge Areas (scroll below the video)
+https://www.abpmp.org/page/guide_BPM_CBOK
+
+APQC's Seven Tenets of Process Management. This is an interesting overview of the capabilities related to BPM.
 https://www.apqc.org/resource-library/resource-listing/apqcs-seven-tenets-process-management
 
 The Six Core Elements of Business Process Management. Very popular framework showing the BPM capabilities (part of the book mentioned above: Handbook on Business Process Management)
@@ -50,3 +55,37 @@ https://www.researchgate.net/publication/226852950_The_Six_Core_Elements_of_Busi
 
 BPM Capability Framework - updated version of this framework
 https://digital-bpm.com/bpm-capability-framework/
+
+### PMLC
+You can learn more about the Process Management Lifecycle on:
+https://www.boc-group.com/en/blog/bpm/business-process-management-bpm/
+
+If you speak German I would also recommend you great book written by experts from BOC Group:
+https://www.amazon.com/Prozessmanagement-f%C3%BCr-Experten-aktuelle-wiederkehrende/dp/3642369944
+
+### The BPM Lifecycle
+You can learn more about this cycle on the companion website for the Fundamentals of BPM. It is used to organise the content and you can see it in the slides.
+http://fundamentals-of-bpm.org/supplementary-material/
+
+### PDCA
+Wikipedia entry about PDCA cycle:
+https://en.wikipedia.org/wiki/PDCA
+
+## Screenshots showing page with overview of available models from various tools
+### Microsoft Visio as representative diagramming tool
+![Visio](Visio.png)
+
+### ADONIS as representative EBPA tool
+![ADONIS](ADONIS.png)
+
+### Enterprise Architect as representative MBSE tool
+![Enterprise Architect](Enterprise_Architect.png)
+
+### Camunda Modeler as representative process modeling tool
+![Camunda Modeler](Camunda_Modeler.png)
+
+
+
+
+
+
