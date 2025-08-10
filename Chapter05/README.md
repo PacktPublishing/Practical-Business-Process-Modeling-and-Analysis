@@ -71,6 +71,10 @@ http://fundamentals-of-bpm.org/supplementary-material/
 Wikipedia entry about PDCA cycle:
 https://en.wikipedia.org/wiki/PDCA
 
+### Process thinking
+As a small preview of the process thinking approach of the famous Rummler-Brache duo you may also enjoy the free digital book(let) Managing Sideways by Price Pritchett:
+https://www.rummlerbrache.com/digitalbook/managing_sideways/ 
+
 ## Screenshots showing page with overview of available models from various tools
 ### Microsoft Visio as representative diagramming tool
 ![Visio](Visio.png)
