@@ -26,7 +26,7 @@ Value Stream Mapping is a very important Lean tool. One of the most popular book
 ![ASME Flowcharts](ASME.jpeg)
 Source: https://babel.hathitrust.org/cgi/pt?id=wu.89083917005&seq=3
 
-### Our example process diagram in EPC notation (kindly provided by Roland Woldt
+### Our example process diagram in EPC notation (kindly provided by Roland Woldt)
 ![EPC](EPC.png)
 
 
