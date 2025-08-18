@@ -1,12 +1,15 @@
-# Additional resources for Chapter 9
+# Additional resources for Chapter 9 (Advanced BPMN)
 
 ## Further reading
-* If you would like to learn more about DMN, CMMN, and how they work together with BPMN, I suggest looking at a great document, Field Guide to Shareable Clinical Pathways. You can find it on HL7 BPM Community of Practice page: https://www.hl7.org/bpm/index.cfm
+* If you would like to learn more about DMN, CMMN, and how they work together with BPMN, I suggest looking at a great document, Field Guide to Shareable Clinical Pathways. You can find it via HL7 BPM Community of Practice page: https://www.hl7.org/bpm/index.cfm on https://confluence.hl7.org/spaces/BPM/overview. To make your life easier - here's the direct link as well: https://www.trisotech.com/wp-content/uploads/OMG-Field-Guide-to-sharable-Clinical-Pathways.pdf
 * If you would like to learn more about CMMN, there’s a great book, **[CMMN Method and Style: A Practical Guide to Case Management Modeling for Documentation and Execution](https://www.amazon.com/CMMN-Method-Style-Management-Documentation-ebook/dp/B0D7C1GRMR)**, written by Bruce Silver. Bruce also wrote **[DMN Method and Style: 3rd edition, with DMN Cookbook](https://www.amazon.com/DMN-Method-Style-3rd-Cookbook-ebook/dp/B0D9PP9TH9)**. You need to learn about his “Method and Style” approach!
 * I also want to recommend **[Real-Life BPMN (5th edition): Includes an introduction to DMN](https://www.amazon.com/Real-Life-BPMN-5th-introduction-DMN-ebook/dp/B0F9YP459S)**, written by Bernd Ruecker and Jakob Freund. My five-star reviews of their books are a good indicator of how much I like what they write.
 * Finally, if you want to explore the topic of decision management, the best location I know of is https://dmcommunity.org, run by Jacob Feldman. Apart from DMN-related content, you will find many thought-provoking posts about decision management and AI.
 
 ## Further recommendations
+### BPMN course
+As mentioned on the page with resources for a previous chapter - if you like learning from video courses take a look at my course on Udemy: **[BPMN for business analysts](https://www.udemy.com/course/bpmn-for-business-analysts/?referralCode=19755495261FDCA2B4CA)**.
+
 ### BPMN Model Interchange Working Group (MIWG)
 If you would like to learn more about BPMN MIWG, see the recordings of the interchange demonstrations, read additional articles, and see the test cases visit https://www.omgwiki.org/bpmn-miwg/doku.php
 
@@ -35,3 +38,21 @@ Both for a Process (from a Process architecture) or a given process step such as
 As mentioned in this chapter, BPMN does not give us nice connection with information about the organizational structure and responsibilities. Using lanes is OK, but sometimes you need more. Many tools allow you to define the roles (linked with organizational units) and connect them to the Tasks as Responsible, Accountable, Consulted, and Informed. As you may expect this is not useful for documentation purposes, but also can be used in simulation or for showing who does what. 
 
 As an example I am sharing link to page showing RACI analysis in ADONIS: https://docs.boc-group.com/adonis/en/docs/17.0/user_manual/modwv-00000/#modwv-01100
+
+### Metamodeling and conceptual modeling
+If the idea of covering not only processes, but also other aspects sounds interesting you may want to learn more about the concept of metamodeling.
+Image below (taken from https://docs.boc-group.com/adonis/en/docs/17.1/user_manual/amm-000000/#bpmn-fit-for-business) shows an example simple metamodel i.e., various object types connected with relations.
+![ADONIS Metamodel](Metamodel.png)
+
+You can also learn more about the conceptual modeling and metamodeling from the following books:
+
+Book series "Domain-Specific Conceptual Modeling"
+
+**[Domain-Specific Conceptual Modeling: Concepts, Methods and Tools](https://www.amazon.com/Domain-Specific-Conceptual-Modeling-Concepts-Methods-ebook/dp/B01JAIVWU4)** whose editors are Dimitris Karagiannis, Heinrich C. Mayr, and John Mylopoulos.
+
+**[Domain-Specific Conceptual Modeling: Concepts, Methods and ADOxx Tools](https://www.amazon.com/Domain-Specific-Conceptual-Modeling-Concepts-Methods-ebook/dp/B09VD7FVMY)** whose editors are Dimitris Karagiannis, Moonkun Lee, Knut Hinkelmann, and Wilfrid Utz.
+
+And upcoming **[Domain-Specific Conceptual Modeling: The OMiLAB Community of Practice](https://www.amazon.com/Domain-Specific-Conceptual-Modeling-Community-Practice/dp/3031986598)** whose editors are Xavier Boucher, Robert Andrei Buchmann, Hans-Georg Fill, Dimitris Kyritsis, and Wilfrid Utz.
+
+Finally, there's also a very special book **[Metamodeling: Applications and Trajectories to the Future: Essays in Honor of Dimitris Karagiannis](https://www.amazon.com/Metamodeling-Applications-Trajectories-Dimitris-Karagiannis-ebook/dp/B0D9V789TS)** whose editors are Hans-Georg Fill and Harald Kühn.
+
