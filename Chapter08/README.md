@@ -1,4 +1,4 @@
-# Additional resources for Chapter 8
+# Additional resources for Chapter 8 (BPMN – What You Need to Know)
 
 ## Further reading
 If you would like to learn more about the concepts covered in this chapter I would suggest checking **[BPMN Quick and Easy Using Method and Style: Process Mapping Guidelines and Examples Using the Business Process Modeling Standard](https://www.amazon.com/BPMN-Quick-Using-Method-Style-ebook/dp/B0DC4GSL83)** from Bruce Silver – well known BPMN expert.
