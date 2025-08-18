@@ -1,4 +1,4 @@
-# Additional resources for Chapter 6
+# Additional resources for Chapter 6 (Establishing Process Architecture)
 
 ## Further reading
 
