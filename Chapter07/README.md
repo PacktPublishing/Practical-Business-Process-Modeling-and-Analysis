@@ -1,4 +1,4 @@
-# Additional resources for Chapter 7
+# Additional resources for Chapter 7 (Process Modeling Notations)
 
 ## Further reading
 If you want to learn more about the modeling notations covered in this chapter (and more), I suggest you check out the following books and resources:
