@@ -4,7 +4,8 @@
 * If you would like to learn more about DMN, CMMN, and how they work together with BPMN, I suggest looking at a great document, Field Guide to Shareable Clinical Pathways. You can find it via HL7 BPM Community of Practice page: https://www.hl7.org/bpm/index.cfm on https://confluence.hl7.org/spaces/BPM/overview. To make your life easier - here's the direct link as well: https://www.trisotech.com/wp-content/uploads/OMG-Field-Guide-to-sharable-Clinical-Pathways.pdf
 * If you would like to learn more about CMMN, there’s a great book, **[CMMN Method and Style: A Practical Guide to Case Management Modeling for Documentation and Execution](https://www.amazon.com/CMMN-Method-Style-Management-Documentation-ebook/dp/B0D7C1GRMR)**, written by Bruce Silver. Bruce also wrote **[DMN Method and Style: 3rd edition, with DMN Cookbook](https://www.amazon.com/DMN-Method-Style-3rd-Cookbook-ebook/dp/B0D9PP9TH9)**. You need to learn about his “Method and Style” approach!
 * I also want to recommend **[Real-Life BPMN (5th edition): Includes an introduction to DMN](https://www.amazon.com/Real-Life-BPMN-5th-introduction-DMN-ebook/dp/B0F9YP459S)**, written by Bernd Ruecker and Jakob Freund. My five-star reviews of their books are a good indicator of how much I like what they write.
-* Finally, if you want to explore the topic of decision management, the best location I know of is https://dmcommunity.org, run by Jacob Feldman. Apart from DMN-related content, you will find many thought-provoking posts about decision management and AI.
+* Finally, if you want to explore the topic of decision management, the best location I know of is https://dmcommunity.org, run by Jacob Feldman. Apart from DMN-related content, you will find many thought-provoking posts about decision management and AI. Update: there's also a new book from Jacob: **[Business Decision Modeling with OpenRules: How to Develop Operational Decision Services using OpenRules Decision Intelligence Platform](https://www.amazon.com/Business-Decision-Modeling-OpenRules-Intelligence-ebook/dp/B0F1DS1SLM/
+)**. It is unlike other books about the Decision Management I read as it uses the format of dialog sessions. I liked the previous version a lot and can't wait to read the new one!
 
 ## Further recommendations
 ### BPMN course
@@ -55,4 +56,6 @@ Book series "Domain-Specific Conceptual Modeling"
 And upcoming **[Domain-Specific Conceptual Modeling: The OMiLAB Community of Practice](https://www.amazon.com/Domain-Specific-Conceptual-Modeling-Community-Practice/dp/3031986598)** whose editors are Xavier Boucher, Robert Andrei Buchmann, Hans-Georg Fill, Dimitris Kyritsis, and Wilfrid Utz.
 
 Finally, there's also a very special book **[Metamodeling: Applications and Trajectories to the Future: Essays in Honor of Dimitris Karagiannis](https://www.amazon.com/Metamodeling-Applications-Trajectories-Dimitris-Karagiannis-ebook/dp/B0D9V789TS)** whose editors are Hans-Georg Fill and Harald Kühn.
+
+By the way, if the conceptual modeling sounds fun for you, check out https://omilab.org for many interesting resources about the digital innovation!
 
