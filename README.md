@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 # Practical Business Process Modeling and Analysis
 
 <a href="https://www.packtpub.com/en-in/product/practical-business-process-modeling-and-analysis-9781805126386"> <img src="https://content.packt.com/_/image/original/B21053/cover_image.jpg?version=1754456469" alt="Practical-Business-Process-Modeling-and-Analysis" itemprop="url" height="256px" align="right">
